@@ -10,3 +10,8 @@
 
 # IDEs/Playgrounds
 
+| Tool  | Link |
+| ------------- | ------------- |
+| VS Code  | https://code.visualstudio.com/  |
+| PyCharm  | https://www.jetbrains.com/pycharm/  |
+
