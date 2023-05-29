@@ -5,7 +5,7 @@
 
 | Channel  | Video |
 | ------------- | ------------- |
-| CodeWithHarry  | Learn Python in 11 Hours https://youtu.be/gfDE2a7MKjA  |
+| CodeWithHarry  | https://youtu.be/gfDE2a7MKjA  |
 | Content Cell  | Content Cell  |
 
 # IDEs/Playgrounds
