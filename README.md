@@ -12,6 +12,6 @@
 
 | Tool  | Link |
 | ------------- | ------------- |
-| VS Code  | https://code.visualstudio.com/  |
-| PyCharm  | https://www.jetbrains.com/pycharm/  |
+| VS Code  | [Visit](https://code.visualstudio.com/)  |
+| PyCharm  | [Visit](https://www.jetbrains.com/pycharm/)  |
 
